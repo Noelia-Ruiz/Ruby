@@ -1,0 +1,7 @@
+Nombre: Juan Pérez, Domicilio: Buenos Aires 75, DNI: 35412305, Mascota: Luna
+Nombre: Abi García, Domicilio: Av. Rosario 45 bis, DNI: 35256890, Mascota: Ron
+Nombre: Manuel López, Domicilio: Rosario 3000, DNI: 35698742, Mascota: Ron
+Nombre: Emer Matijasevic, Domicilio: Av. Corrientes 14, DNI: 35412368, Mascota: Ron
+Nombre: Julian Sandoval, Domicilio: Rosario 2024, DNI: 35634589, Mascota: Nino
+Nombre: Ale Fernández, Domicilio: Cordoba 2024, DNI: 35698745, Mascota: Luna
+Nombre: Noelia Ruiz, Domicilio: Rosario 2000, DNI: 35639868, Mascota: Nino
